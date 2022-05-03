@@ -37,7 +37,6 @@ Pympler==1.0.1
 pytz==2021.3
 requests==2.27.1
 semver==2.13.0
-sip==4.19.13
 smmap==5.0.0
 statsmodels==0.13.2
 streamlit==1.8.1
